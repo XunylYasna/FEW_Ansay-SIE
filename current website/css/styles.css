@@ -1,0 +1,77 @@
+.navbar{
+    /* navbar-expand-lg navbar-dark bg-dark fixed-top */
+    background-color:black;
+}
+
+.navbar{
+    font-family: Montserrat;
+    font-weight: bold;
+}
+
+.nitems{
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    padding: 156px 0 100px;
+    background-color: #FFFF;
+  }
+
+header h1{
+    font-weight: bolder;
+}
+  
+  section {
+    padding: 150px 0;
+  }
+  
+
+.halfimg{
+    width:100%;
+}
+
+.about{
+    display: flex;
+    justify-content: center;
+}
+
+.card-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    padding-left: 40%;
+}
+
+h1,h2,h3{
+    font-family: Clarendon;
+    font-weight: bolder;
+}
+
+a,p{
+    font-family: Montserrat;
+}
+
+#page-top{
+    background-color: #F7F7F7;
+}
+
+.emptyrq{
+    background-color: #222222;
+    padding: 100px;
+}
+
+.titlerq{
+    padding: 50px 0px;
+    font-weight: bolder;
+}
+
+.lside{
+    padding-left:10%;
+    padding-top:0px;
+    font-weight: bold;
+}
+
+.contentrq{
+    padding-right: 20%;
+}
