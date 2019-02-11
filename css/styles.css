@@ -75,3 +75,20 @@ a,p{
 .contentrq{
     padding-right: 20%;
 }
+
+.hbar{
+    font-size: 40px;
+}
+
+.card-content{
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-title{
+    padding-bottom: 30px;
+    font-family: Clarendon;
+    font-weight: 400;
+}
